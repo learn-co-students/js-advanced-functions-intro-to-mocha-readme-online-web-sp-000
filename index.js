@@ -14,3 +14,7 @@ function sayHeyFriend(name) {
 function favoriteIceCream(icecream) {
   return `I love ${icecream}`
 }
+
+function shouting() {
+  return "I LOVE JAVASCRIPT SOOOOOO MUCH"
+}
