@@ -7,7 +7,7 @@
 
 ## The 411
 
-![Moe's 411](https://media.giphy.com/media/3orif1KCl3AcfVQefm/giphy.gif)
+<!-- ![Moe's 411](https://media.giphy.com/media/3orif1KCl3AcfVQefm/giphy.gif) -->
 
 Let's take a minute to think about how we'd organize our tests. We'd naturally
 have the tests themselves - but bunching them all together would get real messy
